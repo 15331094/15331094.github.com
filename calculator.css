@@ -35,3 +35,7 @@ h1 {
 	margin-left: 1px;
 	margin-right: 1px;
 }
+
+#row input:hover {
+	background-color: blue;
+}
